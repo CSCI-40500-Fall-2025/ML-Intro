@@ -3,8 +3,9 @@ title: Introduction to Machine Learning and Machine Learning Systems
 author: Raffi Khatchadourian (based on material from Christian Kaestner and Eunsuk Kang)
 date: November 26, 2025
 semester: Fall 2025
+lang: en
 footer: Based on "Machine Learning in Production/AI Engineering" by Christian Kaestner and Eunsuk Kang, Carnegie Mellon University
-license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+license: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 ---
 
 # Introduction to Machine Learning and Machine Learning Systems
@@ -87,7 +88,7 @@ New part of the course.
 
 ## Case Study: Food Delivery Service
 
-![](graphics/doordash.png){width=60% title="Courtesy DoorDash."}
+![DoorDash food delivery app](graphics/doordash.png){width=60% title="Courtesy DoorDash."}
 
 ## Predicting Delivery Time
 
@@ -167,7 +168,7 @@ New part of the course.
 
 ## Features
 
-![](graphics/doordash.png){width=60% title="Courtesy DoorDash."}
+![DoorDash food delivery app](graphics/doordash.png){width=60% title="Courtesy DoorDash."}
 
 ## Possible Features for Delivery Prediction
 
@@ -216,7 +217,7 @@ Build a predictor that best describes an outcome for the observed features.
 
 ## Evaluation Methods
 
-![](graphics/doordash.png){width=60% title="Courtesy DoorDash."}
+![DoorDash food delivery app](graphics/doordash.png){width=60% title="Courtesy DoorDash."}
 
 ## Precision and Recall
 
@@ -249,7 +250,7 @@ Build a predictor that best describes an outcome for the observed features.
 ::::
 
 :::: column
-![](graphics/underfitting.png)
+![Underfitting: an overly simple model that fits the data loosely](graphics/underfitting.png)
 ::::
 
 :::
@@ -267,7 +268,7 @@ Build a predictor that best describes an outcome for the observed features.
 ::::
 
 :::: column
-![](graphics/overfitting.png)
+![Overfitting: an overly complex model that fits the training data too tightly](graphics/overfitting.png)
 ::::
 
 :::
